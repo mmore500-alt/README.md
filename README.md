@@ -1,2 +1,2 @@
 # README.md
-A starter repository
+A starter repository. With a starter commit.
